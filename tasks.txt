@@ -1,0 +1,4 @@
+LIFE EXPECTANCY AND GDP
+
+The main goal of this project is to showcase my abilities to use the Pandas, MatPlotLib, and Seaborn libraries to explore a data set and provide meaningful and clear visualizations. The data set contains records on the life expectancy and GDP by year for various countries. I will explore the various relationships between each variable to see what insights I can gain, and what stories I can tell from the data.
+
